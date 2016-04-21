@@ -362,7 +362,7 @@ The project can be downloaded from [here]( https://github.com/ytyszxf/front-end-
  
  Developer should write good and clear unit test cases during their development.
  
- #karma/test.js#
+ ##karma/test.js##
  ```javascript
  describe("AppUtils", function() {
 
